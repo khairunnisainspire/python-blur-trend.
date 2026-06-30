@@ -1,0 +1,1 @@
+# python-blur-trend.
